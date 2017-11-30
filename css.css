@@ -49,3 +49,19 @@ h2
 	font-size: 24px;
 	
 }
+#PicturesAnimal
+{
+	width: 600px;
+	height: 500px;
+	text-align: left;
+}
+#ParAbout
+{
+	font-size: 28px;
+}
+#ImageAbout
+{
+	width: 600px;
+	height: 500px;
+	text-align: left;
+}
